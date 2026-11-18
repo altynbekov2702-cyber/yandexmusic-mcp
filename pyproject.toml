@@ -12,7 +12,7 @@ license = "MIT"
 authors = [{ name = "Evgeny Gurin" }]
 keywords = ["yandex-music", "mcp", "fastmcp", "music", "dj"]
 dependencies = [
-    "fastmcp>=3.0.0",
+    "fastmcp>=3.4.3,<4.0",
     "httpx>=0.28",
     "pydantic-settings>=2.5",
 ]
